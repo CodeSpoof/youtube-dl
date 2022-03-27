@@ -1532,6 +1532,7 @@ from .vtm import VTMIE
 from .medialaan import MedialaanIE
 from .vube import VubeIE
 from .vuclip import VuClipIE
+from .vupload import VuploadIE
 from .vvvvid import (
     VVVVIDIE,
     VVVVIDShowIE,
