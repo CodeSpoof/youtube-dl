@@ -1207,6 +1207,7 @@ from .streamable import StreamableIE
 from .streamcloud import StreamcloudIE
 from .streamcz import StreamCZIE
 from .streamsb import StreamsbIE
+from .streamtape import StreamtapeIE
 from .streetvoice import StreetVoiceIE
 from .stretchinternet import StretchInternetIE
 from .stv import STVPlayerIE
